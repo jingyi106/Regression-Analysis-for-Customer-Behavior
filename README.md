@@ -21,11 +21,11 @@ This project focuses on applying linear regression model to compare and interpre
 ### Model
 Linear Regression
 
-1. Result Interpretation (Causal Intefernce, t-test)
+1. Result Interpretation (Causal Inference, t-test)
 2. Residual Analysis
 3. Model Evaluation (MAE, MSE, RMSE)
 
 ### Business Insights
 1. Time on App is much more important than Time on Website. To improve user engagement (imporve amount spent), the company should put more efforts in developing App. Time on website isn't statistically significant and we cannot conclude there is causal-inference relationship between Time on App and Yearly Amount Spent
-2. There is strongly positive relationship between Length of Membership and Yearly Amount Spent, so we suggest engaging more member to promote comsumption
+2. There is a strongly positive relationship between Length of Membership and Yearly Amount Spent, so we suggest engaging more member to promote comsumption
 
