@@ -9,3 +9,22 @@ The company is trying to decide whether to focus their efforts on their mobile a
 
 This project focuses on applying linear regression model to compare and interpret the importance of app and website on impacting users' engagement
 
+## Analysis
+
+### Exploratory Data Analysis
+Correlation Analysis
+Regression Analysis
+Pair Plot
+Heatmap
+Joint Plot
+
+### Model
+Linear Regression
+Result Interpretation (Causal Intefernce, t-test)
+Residual Analysis
+Model Evaluation (MAE, 
+
+### Business Insights
+1. Time on App is much more important than Time on Website. To improve user engagement (imporve amount spent), the company should put more efforts in developing App. Time on website isn't statistically significant and we cannot conclude there is causal-inference relationship between Time on App and Yearly Amount Spent
+2. There is strongly positive relationship between Length of Membership and Yearly Amount Spent, so we suggest engaging more member to promote comsumption
+
