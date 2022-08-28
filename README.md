@@ -22,7 +22,7 @@ Joint Plot
 Linear Regression
 Result Interpretation (Causal Intefernce, t-test)
 Residual Analysis
-Model Evaluation (MAE, 
+Model Evaluation (MAE, MSE, RMSE)
 
 ### Business Insights
 1. Time on App is much more important than Time on Website. To improve user engagement (imporve amount spent), the company should put more efforts in developing App. Time on website isn't statistically significant and we cannot conclude there is causal-inference relationship between Time on App and Yearly Amount Spent
